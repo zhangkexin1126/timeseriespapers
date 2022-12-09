@@ -4,6 +4,7 @@
 
 |Num|Paper|Pub|Year|Links|
 |----|:----|----|----|----|
+|1|MHCCL: Masked Hierarchical Cluster-wise Contrastive Learning for Multivariate Time Series|AAAI|2023|[paper](https://arxiv.org/abs/2212.01141) & [code](https://github.com/mqwfrog/MHCCL)|
 
 > Forecasting
 
