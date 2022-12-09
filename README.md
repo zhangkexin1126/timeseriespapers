@@ -1,5 +1,6 @@
 # timeseriespapers
 
+## Time-Series Downstream Tasks
 > Classifiaction
 
 |Num|Paper|Pub|Year|Links|
@@ -21,15 +22,30 @@
 |3|Deep Contrastive One-Class Time Series Anomaly Detection|arXiv|2022|[paper](https://arxiv.org/abs/2207.01472) & code|
 |4|
 
-> Self-supervised Contrastive Learning
+> Industrial Fault Diagnosis
+
+|Num|Paper|Pub|Year|Links|
+|----|:----|----|----|----|
+|1|Multiple Timescale Feature Learning Strategy for Valve Stiction Detection Based on Convolutional Neural Network|IEEE/ASME Transactions on Mechatronics|2022|[paper](https://ieeexplore.ieee.org/document/9448494/) & code|
+
+
+## Time-Series Representation Learning
+
+> Contrastive Learning Methods
 
 |Num|Paper|Pub|Year|Links|
 |----|:----|----|----|----|
 |1|MHCCL: Masked Hierarchical Cluster-wise Contrastive Learning for Multivariate Time Series|AAAI|2023|[paper](https://arxiv.org/abs/2212.01141) & [code](https://github.com/mqwfrog/MHCCL)|
 |2|Deep Contrastive One-Class Time Series Anomaly Detection|arXiv|2022|[paper](https://arxiv.org/abs/2207.01472) & code|
 
+> Adversarial Methods
 
-> Industrial Fault Diagnosis
+
+
+
+## Self-supervised Contrastive Learning
 
 |Num|Paper|Pub|Year|Links|
 |----|:----|----|----|----|
+|1| Exploring Simple Siamese Representation Learning | CVPR | 2021 | |
+|2|
