@@ -11,7 +11,7 @@ Introduction
 
 ----
 
-### Time-Series Surveys
+## Time-Series Surveys
 
 |Num|Paper|Pub|Year|Links|
 |----|:----|----|----|----|
@@ -39,13 +39,14 @@ Time-series classification is a task that
 |3|Self-Supervised Contrastive Pre-Training For Time Series via Time-Frequency Consistency|NeurIPS|2022|[paper](https://arxiv.org/abs/2206.08496) & [code](https://github.com/mims-harvard/TFC-pretraining)
 |4|Unsupervised Representation Learning for Time Series with Temporal Neighborhood Coding|ICLR|2021|[paper](https://arxiv.org/abs/2106.00750) & [code](https://github.com/sanatonek/TNC_representation_learning)
 |5|TS2Vec: Towards Universal Representation of Time Series|AAAI|2022|[paper](https://arxiv.org/abs/2106.10466#) & [code](https://github.com/yuezhihan/ts2vec)
+|6|TimeCLR: A self-supervised contrastive learning framework for univariate time series representation|Knowledge-Based Systems|2022|[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122002726) & code
 
-
-> Forecasting
+> Forecasting & Prediction
 
 |Num|Paper|Pub|Year|Links|
 |----|:----|----|----|----|
-
+|1|Stock Trend Prediction with Multi-granularity Data: A Contrastive Learning Approach with Adaptive Fusion|CIKM|2021|[paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482483) & code
+|2|
 
 > Anomaly Detection & Change Point Detection
 
@@ -54,7 +55,9 @@ Time-series classification is a task that
 |1|Contrastive autoencoder for anomaly detection in multivariate time series|Information Sciences (JCR-Q1)|2022|[paper](https://www.sciencedirect.com/science/article/pii/S0020025522008775) & code|
 |2|Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy|ICLR(Spotlight)| 2022 | [paper](https://arxiv.org/abs/2110.02642) & [code](https://github.com/thuml/Anomaly-Transformer)
 |3|Deep Contrastive One-Class Time Series Anomaly Detection|arXiv|2022|[paper](https://arxiv.org/abs/2207.01472) & code|
-|4|
+|4|Time Series Change Point Detection with Self-Supervised Contrastive Predictive Coding|WWW|2021|[paper](https://dl.acm.org/doi/abs/10.1145/3442381.3449903) & code
+
+
 
 > Industrial Fault Diagnosis
 
@@ -75,11 +78,17 @@ Time-series classification is a task that
 |4|Self-Supervised Contrastive Pre-Training For Time Series via Time-Frequency Consistency|NeurIPS|2022|[paper](https://arxiv.org/abs/2206.08496) & [code](https://github.com/mims-harvard/TFC-pretraining)
 |5|Unsupervised Representation Learning for Time Series with Temporal Neighborhood Coding|ICLR|2021|[paper](https://arxiv.org/abs/2106.00750) & [code](https://github.com/sanatonek/TNC_representation_learning)
 |6|TS2Vec: Towards Universal Representation of Time Series|AAAI|2022|[paper](https://arxiv.org/abs/2106.10466#) & [code](https://github.com/yuezhihan/ts2vec)
-|
+|7|TimeCLR: A self-supervised contrastive learning framework for univariate time series representation|Knowledge-Based Systems|2022|[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122002726) & code
+|8|Time Series Change Point Detection with Self-Supervised Contrastive Predictive Coding|WWW|2021|[paper](https://dl.acm.org/doi/abs/10.1145/3442381.3449903) & code
+|9|Stock Trend Prediction with Multi-granularity Data: A Contrastive Learning Approach with Adaptive Fusion|CIKM|2021|[paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482483) & code
+|10|
 
 
 > Adversarial Methods
 
+|Num|Paper|Pub|Year|Links|
+|----|:----|----|----|----|
+|1|
 
 
 
