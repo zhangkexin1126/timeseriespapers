@@ -1,9 +1,17 @@
 # timeseriespapers
 
-## Time-Series Surveys
+Introduction
 
-- Time Series Data Augmentation for Deep Learning: A Survey. IJCAI, 2021. [paper](https://arxiv.org/abs/2002.12478)
-- Transformers in Time Series: A Survey | arXiv | 2022 | [paper](https://arxiv.org/abs/2202.07125) | [code]()
+----
+## Contents
+
+- Time-series Surveys
+- XXX
+
+
+----
+
+### Time-Series Surveys
 
 |Num|Paper|Pub|Year|Links|
 |----|:----|----|----|----|
@@ -19,7 +27,7 @@
 |10|
 
 
-## Time-Series Downstream Tasks
+### Time-Series Downstream Tasks
 > Classifiaction & Clustering
 
 Time-series classification is a task that
@@ -55,7 +63,7 @@ Time-series classification is a task that
 |1|Multiple Timescale Feature Learning Strategy for Valve Stiction Detection Based on Convolutional Neural Network|IEEE/ASME Transactions on Mechatronics|2022|[paper](https://ieeexplore.ieee.org/document/9448494/) & code|
 |2
 
-## Time-Series Representation Learning
+### Time-Series Representation Learning
 
 > Contrastive Learning Methods
 
@@ -75,7 +83,7 @@ Time-series classification is a task that
 
 
 
-## Self-supervised Contrastive Learning
+### Self-supervised Contrastive Learning
 
 |Num|Paper|Pub|Year|Links|
 |----|:----|----|----|----|
