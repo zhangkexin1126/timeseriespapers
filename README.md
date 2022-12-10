@@ -1,6 +1,10 @@
 # timeseriespapers
 
 ## Time-Series Surveys
+
+- Time Series Data Augmentation for Deep Learning: A Survey. IJCAI, 2021. [paper](https://arxiv.org/abs/2002.12478)
+- Transformers in Time Series: A Survey | arXiv | 2022 | [paper](https://arxiv.org/abs/2202.07125) | [code]()
+
 |Num|Paper|Pub|Year|Links|
 |----|:----|----|----|----|
 |1|Time Series Data Augmentation for Deep Learning: A Survey | IJCAI | 2021|[paper](https://arxiv.org/abs/2002.12478)
