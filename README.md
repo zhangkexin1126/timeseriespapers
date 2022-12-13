@@ -64,11 +64,12 @@ Time-series classification is a task that
 |Num|Paper|Pub|Year|Links|
 |----|:----|----|----|----|
 |1|Multiple Timescale Feature Learning Strategy for Valve Stiction Detection Based on Convolutional Neural Network|IEEE/ASME Transactions on Mechatronics|2022|[paper](https://ieeexplore.ieee.org/document/9448494/) & code|
-|2
+|2|A novel deep learning based fault diagnosis approach for chemical process with extended deep belief network|ISA Transactions|2020|[paper](https://www.sciencedirect.com/science/article/pii/S0019057819302903) & code|
+|3|zhong
 
 ### Time-Series Representation Learning
 
-> Contrastive Learning Methods
+> Contrastive Methods
 
 |Num|Paper|Pub|Year|Links|
 |----|:----|----|----|----|
@@ -96,5 +97,6 @@ Time-series classification is a task that
 
 |Num|Paper|Pub|Year|Links|
 |----|:----|----|----|----|
-|1| Exploring Simple Siamese Representation Learning | CVPR | 2021 | |
-|2|
+|1| Exploring Simple Siamese Representation Learning | CVPR | 2021 | [paper](https://arxiv.org/abs/2011.10566?fileGuid=WyYwxqq8kWjKdWgd) & [code](https://github.com/facebookresearch/simsiam)|
+|2| A Simple Framework for Contrastive Learning of Visual Representations | ICML | 2020 | [paper](https://arxiv.org/abs/2002.05709) & [code](https://github.com/google-research/simclr)
+|3
