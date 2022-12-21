@@ -30,6 +30,13 @@ Introduction
 ### Time-Series Downstream Tasks
 > Classifiaction & Clustering
 
+|Num|Paper|Pub|Year|Links|
+|----|:----|----|----|----|
+|1|ShapeNet: A Shapelet-Neural Network Approach for Multivariate Time Series Classification|AAAI|2021|[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17018) & code|
+|2|
+
+
+
 Time-series classification is a task that
 
 |Num|Paper|Pub|Year|Links|
